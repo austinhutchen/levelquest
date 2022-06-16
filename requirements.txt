@@ -1,0 +1,29 @@
+Requirements
+The minimum requirements for this final project are in the following sections. You are not allowed to use stringstream objects, pointers and global variables.
+
+In addition to these specific requirements listed below, keep in mind that choose-your-own projects must be at least as complex as the non-choose-your-own project. This applies to both implementation complexity and the complexity/richness of features in the game itself.
+
+Feature Requirements
+The project must have interactive components (ask the player for input values, create menus for choices, and so on). It’s a game!
+Game stats should be displayed throughout the game. It’s more exciting and meaningful! Also, these stats help debug the code.
+The project must make use of the provided Map class (see the project 3 write-up for more information on the Map class). You may choose to write your own 2D Map class or add/remove functionality to/from what’s provided to suit your needs.
+Your project must include:
+At least 5 menu options (other than Quit/Exit)
+At least two of these options must have a second layer of menu options
+At least 2 menu options (primary or secondary layer of the menu) should include a random component, at least one each from the following:
+The value of the variable is selected at random from a certain range of values (i.e. select a value at random between 1 and 6)
+A probability value determines one of the outcomes (e.g. there is a 60% chance a certain event will occur)
+
+
+Implementation Requirements
+The project must contain (at least) the following:
+
+A 2D map (in a dedicated class)
+4+ user defined classes (excluding map class)
+At least two classes with 4+ data members.
+At least one class must include an array/vector of objects from a class that you created.
+Appropriate methods for each class (including getters and setters)
+6+ if-else statements
+6+ loops (while loops, for loops, do-while, in total)
+2+ nested loops
+File IO (both reading from a file and writing to a file)
