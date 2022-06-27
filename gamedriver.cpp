@@ -16,7 +16,6 @@ int main()
   int colchoice;
   int level = 0;
   int exit = 0;
-  int m = 0;
   int display = 0;
   int option;
   string _map;
@@ -26,6 +25,7 @@ int main()
   backpack backpack1 = backpack();
   npc npc1 = npc();
   stats save = stats();
+ 
   vector<Enemy> enemies;
   vector<map> maps;
   string guy;
