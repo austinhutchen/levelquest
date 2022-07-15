@@ -28,7 +28,9 @@ Use multithreading to do something like output map while waiting for other input
 Implement items system
 Make the map output faster, instead of two for loops with lots of if conditions
 Use proper memory allocation practices when declaring and disposing of unused variables
-
+Implement djikstras algorithm for better enemy pathfinding
+Find a way to fix the movement overlap bug when player and enemy move across eachother at the same time and battle is not initiated
+Improve layout and ui of battle menu
 
 
 
