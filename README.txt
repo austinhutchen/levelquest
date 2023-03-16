@@ -1,3 +1,6 @@
+**** DEPRECATED CODE; NEW, FASTER, AND EASIER TO COMPILE VERSION VERSION IS AT https://github.com/austinhutchen/journey.git. ****
+
+
 HOW TO COMPILE AND RUN
 
 
