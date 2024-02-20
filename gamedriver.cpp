@@ -25,7 +25,6 @@ int main()
   backpack backpack1 = backpack();
   npc npc1 = npc();
   stats save = stats();
- 
   vector<Enemy> enemies;
   vector<map> maps;
   string guy;
